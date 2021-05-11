@@ -1,5 +1,5 @@
 function double(a) {
-    return a*2
+    return a+3
 }
 
 module.exports = { double }
